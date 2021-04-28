@@ -1,2 +1,2 @@
 # ee-cookieconsent
-Displays a cookie consent banner
+Displays a cookie banner
